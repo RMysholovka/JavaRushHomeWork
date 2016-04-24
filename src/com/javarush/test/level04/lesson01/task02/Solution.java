@@ -9,6 +9,7 @@ public class Solution
     public static void main(String[] args) {
         Apple apple = new Apple();
         Apple.addPrice(50);
+
         Apple apple2 = new Apple();
         Apple.addPrice(100);
         System.out.println("Apples price is " + Apple.applesPrice);
