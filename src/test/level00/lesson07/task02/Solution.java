@@ -10,7 +10,7 @@ public class Solution
         int x = 2;
         int y = 12;
         
-        //x = x * 38;
+        //x = x * 39;
         y = x + y;
         x = y - x;
         y = y - x;
