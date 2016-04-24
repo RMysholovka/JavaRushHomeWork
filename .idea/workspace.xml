@@ -661,7 +661,13 @@
       <option name="project" value="LOCAL" />
       <updated>1461492854898</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first commit home">
+      <created>1461493164318</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1461493164318</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
