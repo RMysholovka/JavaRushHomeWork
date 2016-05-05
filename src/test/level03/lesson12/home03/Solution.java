@@ -7,11 +7,16 @@ package test.level03.lesson12.home03;
 Я буду зарабатывать $50 в час
 */
 
+import java.io.*;
+
 public class Solution
 {
     public static void main(String[] args)   throws Exception
     {
-        System.out.println("hello");
-        //напишите тут ваш код
+        //System.out.println("Введите число: ");
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));        //напишите тут ваш код
+        String number = reader.readLine();
+        int number1 = Integer.parseInt(number);
+        System.out.println("Я буду зарабатывать $"+number1+" в час");
     }
 }
