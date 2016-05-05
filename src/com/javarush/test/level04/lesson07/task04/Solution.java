@@ -34,7 +34,7 @@ public class Solution
         System.out.println("количество отрицательных чисел: " + d);
         System.out.println("количество положительных чисел: " + k);
     }
-
+//yutty
     public static int abs(int a){
         if(a>=0){return 1;}
         else {return 0;}
