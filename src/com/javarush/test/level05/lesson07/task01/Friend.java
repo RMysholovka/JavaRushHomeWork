@@ -11,7 +11,7 @@ public class Friend
 
     public void initialize(String name){
         this.name = name;
-
+//eeeee
     }
 
     public void initialize(String name, int age){
