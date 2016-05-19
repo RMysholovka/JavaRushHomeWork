@@ -31,7 +31,7 @@ public class Rectangle
         this.width = 0;
         this.height = 0;
     }
-    
+
 
     public Rectangle(int width, int left, int top)
     {
