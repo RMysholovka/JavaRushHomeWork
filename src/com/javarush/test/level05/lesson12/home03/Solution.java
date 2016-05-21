@@ -13,7 +13,7 @@ public class Solution
         Mouse jerryMouse = new Mouse("Jerry", 12, 5);
         Dog buffyDog = new Dog("Buffy", 40,12);
         Cat tomCat = new Cat("Tom", 23, 15);
-        
+
     }
 
     public static class Mouse
